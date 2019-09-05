@@ -5,3 +5,6 @@ This project is to simulate "King of Newyork" game and to be able to play it on 
 This project will allow you to play the game on TERMINAL and get standard output.
 
 To play the game, you can choose to run either part 1, part 1-3, or part 1-4 file (while we recommend running part 1-4 as it's  the complete version and contains pattern designs)
+
+For How To Play the game, please check the following link:
+https://www.ultraboardgames.com/king-of-new-york/game-rules.php
