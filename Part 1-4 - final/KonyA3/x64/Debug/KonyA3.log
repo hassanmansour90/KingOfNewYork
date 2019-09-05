@@ -1,0 +1,53 @@
+﻿  aggressiveBehavior.cpp
+c:\users\p_courn\desktop\konya4\konya3\aggressivebehavior.cpp(692): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\aggressivebehavior.cpp(711): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\aggressivebehavior.cpp(737): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\aggressivebehavior.cpp(1778): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\aggressivebehavior.cpp(1803): warning C4101: 'ptrU': unreferenced local variable
+  Behavior.cpp
+  CardObserver.cpp
+  Cards.cpp
+  CardSubject.cpp
+  Dice.cpp
+  DiceObserver.cpp
+  DiceSubject.cpp
+  Driver.cpp
+  Edge.cpp
+  EnergyCubes.cpp
+  FileIO.cpp
+  Graph.cpp
+c:\users\p_courn\desktop\konya4\konya3\graph.cpp(31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  humanBehavior.cpp
+c:\users\p_courn\desktop\konya4\konya3\humanbehavior.cpp(637): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\humanbehavior.cpp(656): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\humanbehavior.cpp(682): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\humanbehavior.cpp(1090): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Map.cpp
+  moderateBehavior.cpp
+c:\users\p_courn\desktop\konya4\konya3\moderatebehavior.cpp(283): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\p_courn\desktop\konya4\konya3\moderatebehavior.cpp(292): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\p_courn\desktop\konya4\konya3\moderatebehavior.cpp(300): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\p_courn\desktop\konya4\konya3\moderatebehavior.cpp(700): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\moderatebehavior.cpp(719): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\moderatebehavior.cpp(745): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\moderatebehavior.cpp(1786): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\p_courn\desktop\konya4\konya3\moderatebehavior.cpp(1811): warning C4101: 'ptrU': unreferenced local variable
+  Monsters.cpp
+  PhaseObserver.cpp
+  PhaseSubject.cpp
+  Player.cpp
+  Generating Code...
+c:\users\p_courn\desktop\konya4\konya3\graph.cpp(70): warning C4715: 'Graph::findNameRegionZone': not all control paths return a value
+c:\users\p_courn\desktop\konya4\konya3\graph.cpp(182): warning C4715: 'Graph::findVertexById': not all control paths return a value
+c:\users\p_courn\desktop\konya4\konya3\fileio.cpp(120): warning C4715: 'FileIO::getIDFromRegionList': not all control paths return a value
+c:\users\p_courn\desktop\konya4\konya3\fileio.cpp(111): warning C4715: 'FileIO::isRightTitle': not all control paths return a value
+c:\users\p_courn\desktop\konya4\konya3\fileio.cpp(129): warning C4715: 'FileIO::getIDFromZoneList': not all control paths return a value
+  Compiling...
+  StatsObserver.cpp
+  StatsSubject.cpp
+  Tiles.cpp
+  Tokens.cpp
+  Vertex.cpp
+  Generating Code...
+c:\users\p_courn\desktop\konya4\konya3\vertex.cpp(76): warning C4715: 'Vertex::getNameByID': not all control paths return a value
+  KonyA3.vcxproj -> C:\Users\P_courn\Desktop\KonyA4\x64\Debug\KonyA3.exe
